@@ -7,4 +7,4 @@
 なお、記事、論文をここに取り上げることは、私が賛同することを意味しません。
 
 ## 第1回
--[アップル、グーグルが「フォートナイト」の配信停止－開発元は提訴 \- Bloomberg](https://www.bloomberg.co.jp/news/articles/2020-08-14/QF0O8MT0G1L101)
+- [アップル、グーグルが「フォートナイト」の配信停止－開発元は提訴 \- Bloomberg](https://www.bloomberg.co.jp/news/articles/2020-08-14/QF0O8MT0G1L101)
