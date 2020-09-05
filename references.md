@@ -8,3 +8,4 @@
 
 ## 第1回
 - [アップル、グーグルが「フォートナイト」の配信停止－開発元は提訴 \- Bloomberg](https://www.bloomberg.co.jp/news/articles/2020-08-14/QF0O8MT0G1L101)
+- [フォートナイト メガプライスダウン \- 最大20%の永続割引](https://www.epicgames.com/fortnite/ja/news/the-fortnite-mega-drop-permanent-discounts-up-to-20-percent)
